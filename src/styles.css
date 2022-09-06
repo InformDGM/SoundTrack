@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.page {
+  padding: 16px;
+  margin-top: 16px;
+}
+
+.link {
+  padding: 16px;
+}
+
+body {
+  background-color: whitesmoke;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  margin: 0;
+}
+
+.header {
+  background-color: lightslategrey;
+  padding: 0;
+}
+.pagination {
+  text-align: center;
+}
+.header a {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color: rgba(197, 197, 208, 0.922);
+  padding: 20px;
+}
