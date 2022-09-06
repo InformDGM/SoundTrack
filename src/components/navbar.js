@@ -37,8 +37,8 @@ const NavigationBar = () => {
           <>
             <LoginButton />
             <LogoutButton />
-            <Profile />
           </>
+          <Profile />
         </Stack>
       </Toolbar>
     </AppBar>
